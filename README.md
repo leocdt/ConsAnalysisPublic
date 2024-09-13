@@ -5,6 +5,10 @@ ConsAnalysis
 
 This project is a collaborative effort by students of the BUT informatique program. It's a web application designed for visualizing and interacting with a company's data, providing insights and analytics in a user-friendly interface.
 
+<p align="center">
+	<img src="https://ibb.co/sJ2JGsV" width="100%">
+</p>
+
 ## Description
 
 This web app leverages modern web technologies to present company data in an interactive and intuitive format. It's built with React and integrates various data visualization libraries.
