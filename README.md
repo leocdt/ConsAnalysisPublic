@@ -6,7 +6,7 @@ ConsAnalysis
 This project is a collaborative effort by students of the BUT informatique program. It's a web application designed for visualizing and interacting with a company's data, providing insights and analytics in a user-friendly interface.
 
 <p align="center">
-	<img src="https://ibb.co/sJ2JGsV" width="100%">
+	<img src="https://i.ibb.co/Wp6pwB2/90fd7426-8470-4f40-9f13-69138a1dffce.webp" width="100%">
 </p>
 
 ## Description
